@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+section#corpo p {
+    font-size: 15pt;
+    color: #1f0808;
+    text-indent: 50px;
+}
+body{
+    background-color: #eed783;
+}
+body p{
+    font: 15pt;
+}
+section#corpo {
+    background-color: rgba(155, 251, 233, 0.956);
+    float: left;
+   width: 630px;
+    display: block;
+    border-style: outset;
+    padding: 10px 10px 10px 10px;  
+    text-align: justify;
+}
+section#corpo h2{
+    font-size: 48px ;
+    font-family: 'Cookie', cursive;
+
+}
+aside#esquerda p {
+    font-size: 15pt;
+    color: #270505;  
+    text-align: justify;
+    text-indent: 50px;
+}
+
+aside#esquerda {
+    background-color: rgb(255, 245, 231);
+    float: right;
+    width: 670px;
+    display: block;
+    padding: 20px 1px 40px 0px;  
+    border-style:outset;
+}
+aside#esquerda h2{
+    font-size: 48px ;
+    font-family: 'Cookie', cursive;
+}
+
+div#interface{
+    background-color: rgb(171, 212, 231);
+    width: 800;
+}
+header#cabecalho h2{
+    height:80px;
+    margin-bottom:50px; 
+    margin-top: -64px ;
+    text-shadow: #eed783;
+}
+header#cabecalho img#principal{
+    position: relative;
+    left: 400px;
+    top: -300px;
+opacity: 0.3;
+
+}
+header#cabecalho h1{
+    color: rgb #411414;
+    font-family: 'Cookie', cursive;
+    font-size: 100px;
+} 
+nav#menu li{
+    display: inline-block;
+    background-color: rgb(144, 179, 246);
+    padding: 10px;
+    margin: 5px;
+    transition: background-color 2s;
+    font-family: 'Cookie', cursive;
+    font: -200px; 
+}
+nav#menu ul{
+    top: 40px;
+    left: 800px;
+    position: absolute;
+}
+footer#rodape{
+    clear: both;
+    text-decoration:dashed;
+}

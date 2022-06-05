@@ -1,0 +1,6 @@
+
+Fazer um bot  “matrícula escola’’
+1.	Pegar email
+2.	Dar bom dia/ boa tarde
+3.	Escolher série/ano
+4.	Criar formulário pra quem conclui ou deixa de concluir o relatorio
