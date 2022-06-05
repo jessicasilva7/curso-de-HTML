@@ -54,13 +54,14 @@ header#cabecalho h2{
     margin-top: -64px ;
     text-shadow: #eed783;
 }
-header#cabecalho img#principal{
+/*header#cabecalho img#principal{
     position: relative;
     left: 400px;
     top: -300px;
 opacity: 0.3;
-
 }
+*/
+
 header#cabecalho h1{
     color: rgb #411414;
     font-family: 'Cookie', cursive;
